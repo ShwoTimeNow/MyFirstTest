@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 	//你好，这是个好的开始！
+	//second commit！！！
         setContentView(R.layout.activity_main);
     }
 
